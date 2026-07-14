@@ -4,7 +4,7 @@
 4. add soaked rice and statue for a minute.
 5. add water and salt and cook until rice is done.
 <<<<<<< HEAD
-6. ready to eat.
+ready to eat.
 =======
-6. ready to eat.
+ready to eat.
 >>>>>>> feature/jeera-rice
